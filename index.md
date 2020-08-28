@@ -21,7 +21,8 @@
 <div style="text-align: center;  ">
 <img src="fig/bozhou.jpg" height="200" width="200" />
 <br>
-中国是世界上，最早掌握黄铜冶炼技术的文明，姜寨遗址出土的黄铜片和黄铜环就是冶炼而成，距今6700年，中国的青铜冶炼掌握的也较早，目前中国最早的冶炼青铜器为，甘肃马家窑遗址出土的青铜刀，距今也有5000年
+中国是世界上，最早掌握黄铜冶炼技术的文明，姜寨遗址出土的黄铜片和黄铜环就是冶炼而成，距今6700年，中国的青铜冶炼掌握的也较早，目前中国最早的冶炼青铜器为，甘肃马家窑遗址出土的青铜刀，距今也有5000年<br>
+
 
 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA0NDAwNw==&mid=2247483728&idx=1&sn=efe96c6d5d46da82f97ee58b92cf278b&chksm=e8250998df52808e545383a167174f10ba7a69f6818df8efb7a9997c9680e3a9753ee3fbe640&mpshare=1&scene=23&srcid=0828DpJPtStsfvgX0AI2K9GF&sharer_sharetime=1598612698173&sharer_shareid=4f39fbbca6595426426f5f14d008d04c#rd)
 </div>
@@ -33,7 +34,7 @@
 <div style="text-align: center;  ">
 <img src="fig/huadeng.png" height="200" width="200" />
 <br>
-花灯剧是云南地方戏曲的主要剧种，是一种古老的民间社会活动。源于明代，流行于全省各地和四川、贵州个别地区。流行在不同地区的花灯又接受了不同的曲种、剧种或民歌小调的影响。云南花灯戏演出的许多剧目，都具有朴素单纯、健康明朗的民间艺术特色，充满着劳动人民的生活气息。
+花灯剧是云南地方戏曲的主要剧种，是一种古老的民间社会活动。源于明代，流行于全省各地和四川、贵州个别地区。流行在不同地区的花灯又接受了不同的曲种、剧种或民歌小调的影响。云南花灯戏演出的许多剧目，都具有朴素单纯、健康明朗的民间艺术特色，充满着劳动人民的生活气息。<br>
 
 [阅读原文](http://mp.weixin.qq.com/s?__biz=MzIyMzA0NDAwNw==&mid=2247483715&idx=1&sn=0663f1b4e1c81daa974453e3d551ef88&chksm=e825098bdf52809dfacc1479fb906a36949e498c8967600e3c11d8d7c759aa5b55c160fb8f46&mpshare=1&scene=23&srcid=08287kGNa0XEuoIwGpqwjxQT&sharer_sharetime=1598617754502&sharer_shareid=4f39fbbca6595426426f5f14d008d04c#rd
 )
@@ -46,7 +47,7 @@
 <div style="text-align: center;  ">
 <img src="fig/yunjin.png" height="200" width="200" />
 <br>
-“南京云锦”是专为帝王将相、王妃公主们做服饰的，云锦中帝王的服饰藻饰华丽，不胜其烦，色彩纹饰皆出章入典。历代帝王自命“真龙天子”，受命于天，驾临人世，统治众生。于是在服饰上大量使用传说中的神兽“龙”的形象，非帝王不准用，以示君临天下，唯我独尊、与天相同
+“南京云锦”是专为帝王将相、王妃公主们做服饰的，云锦中帝王的服饰藻饰华丽，不胜其烦，色彩纹饰皆出章入典。历代帝王自命“真龙天子”，受命于天，驾临人世，统治众生。于是在服饰上大量使用传说中的神兽“龙”的形象，非帝王不准用，以示君临天下，唯我独尊、与天相同<br>
 
 [阅读原文](http://mp.weixin.qq.com/s?__biz=MzIyMzA0NDAwNw==&mid=2247483714&idx=1&sn=45ce25245e409f781ccf85bf93dafbc3&chksm=e825098adf52809c123b5f8360733fdae1ed94557b7e9ce35760b5488fad3645bff96283bc7c&mpshare=1&scene=23&srcid=0828iXP2OWXfGf4lijiQzAc6&sharer_sharetime=1598617763326&sharer_shareid=4f39fbbca6595426426f5f14d008d04c#rd
 )
