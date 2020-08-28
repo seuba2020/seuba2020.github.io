@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## SEUBA 暑期社会实践团队
 
-You can use the [editor on GitHub](https://github.com/seuba2020/seuba2020.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+最新文章：
+[亳州铜巷](https://mp.weixin.qq.com/cgi-bin/masssendmodify?action=edit&appmsgid=2247483728&idx=1&msgid=1000000003&token=1118476598&lang=zh_CN)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seuba2020/seuba2020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[云南花灯](https://mp.weixin.qq.com/s?__biz=MzIyMzA0NDAwNw==&mid=2247483715&idx=1&sn=0663f1b4e1c81daa974453e3d551ef88&chksm=e825098bdf52809dfacc1479fb906a36949e498c8967600e3c11d8d7c759aa5b55c160fb8f46&token=1118476598&lang=zh_CN#rd)
+[南京云锦](https://mp.weixin.qq.com/s?__biz=MzIyMzA0NDAwNw==&mid=2247483714&idx=1&sn=45ce25245e409f781ccf85bf93dafbc3&chksm=e825098adf52809c123b5f8360733fdae1ed94557b7e9ce35760b5488fad3645bff96283bc7c&token=1118476598&lang=zh_CN#rd)
