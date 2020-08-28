@@ -56,7 +56,8 @@
 </p>
 </div>
 
-[阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA0NDAwNw==&mid=2247483715&idx=1&sn=0663f1b4e1c81daa974453e3d551ef88&chksm=e825098bdf52809dfacc1479fb906a36949e498c8967600e3c11d8d7c759aa5b55c160fb8f46&token=1118476598&lang=zh_CN#rd)
+[阅读原文](http://mp.weixin.qq.com/s?__biz=MzIyMzA0NDAwNw==&mid=2247483715&idx=1&sn=0663f1b4e1c81daa974453e3d551ef88&chksm=e825098bdf52809dfacc1479fb906a36949e498c8967600e3c11d8d7c759aa5b55c160fb8f46&mpshare=1&scene=23&srcid=08287kGNa0XEuoIwGpqwjxQT&sharer_sharetime=1598617754502&sharer_shareid=4f39fbbca6595426426f5f14d008d04c#rd
+)
 
 - **南京云锦**
 
@@ -65,7 +66,8 @@
 <p>“南京云锦”是专为帝王将相、王妃公主们做服饰的，云锦中帝王的服饰藻饰华丽，不胜其烦，色彩纹饰皆出章入典。历代帝王自命“真龙天子”，受命于天，驾临人世，统治众生。于是在服饰上大量使用传说中的神兽“龙”的形象，非帝王不准用，以示君临天下，唯我独尊、与天相同。</p>
 </div>
 
-[阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA0NDAwNw==&mid=2247483714&idx=1&sn=45ce25245e409f781ccf85bf93dafbc3&chksm=e825098adf52809c123b5f8360733fdae1ed94557b7e9ce35760b5488fad3645bff96283bc7c&token=1118476598&lang=zh_CN#rd)
+[阅读原文](http://mp.weixin.qq.com/s?__biz=MzIyMzA0NDAwNw==&mid=2247483714&idx=1&sn=45ce25245e409f781ccf85bf93dafbc3&chksm=e825098adf52809c123b5f8360733fdae1ed94557b7e9ce35760b5488fad3645bff96283bc7c&mpshare=1&scene=23&srcid=0828iXP2OWXfGf4lijiQzAc6&sharer_sharetime=1598617763326&sharer_shareid=4f39fbbca6595426426f5f14d008d04c#rd
+)
 
 
 ---
