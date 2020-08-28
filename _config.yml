@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 name: "SEUBA暑期社会实践团队"
 description: "SEUBA暑期社会实践团队的博客网站"
+leancloud:
+  enable: true
+  app_id: 2E2NyzF9sBOKc1Gd5cdPq65i-gzGzoHsz
+  app_key: 44YAWvNESKDmOmD16416zDPT
